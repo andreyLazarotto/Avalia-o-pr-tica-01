@@ -2,6 +2,8 @@
 
 Trabalho da disciplina de Estruturas de Dados em C.
 
+## Equipe: Andrey, João Vitor da Silva, Miguel Waints
+
 ## Como compilar
 
 ```bash
