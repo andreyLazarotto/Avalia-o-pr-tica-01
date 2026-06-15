@@ -2,7 +2,7 @@
 
 Trabalho da disciplina de Estruturas de Dados em C.
 
-## Equipe: Andrey, João Vitor da Silva, Miguel Waints
+## Equipe: Andrey Adrian, João Vitor da Silva, Miguel Waints
 
 ## Como compilar
 
